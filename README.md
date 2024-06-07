@@ -7,6 +7,4 @@ npm install react-bootstrap
 npm install bootstrap
 npm install firebase
 npm install react-pro-sidebar
-npm install @mui/icons-material @mui/material @emotion/styled @emotion/react react-pro-sidebar
-### npm install react-native-web
-### npm install uuid
+npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
